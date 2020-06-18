@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989535215523",
+    "firebase_url": "https://u-of-s-toq.firebaseio.com",
+    "project_id": "u-of-s-toq",
+    "storage_bucket": "u-of-s-toq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989535215523:android:640254e15f191944850416",
+        "android_client_info": {
+          "package_name": "com.example.toq_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989535215523-2mr6s05hrdqkl8e7ci2f4d0027ejo5gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBMAJgQc_bteq2uR7PdWbPp2A4aa_ay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989535215523-2mr6s05hrdqkl8e7ci2f4d0027ejo5gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989535215523-7ppne9qmua57buba2j6iqtq4i6ps24uf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toqv1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
